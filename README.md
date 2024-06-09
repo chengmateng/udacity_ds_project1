@@ -3,7 +3,7 @@ project 1 for data science course in udacity
 
 ## Introduction
 
-This project uses datasets at stackoverflow.com in the year 2017, 2020, 2022.
+This project uses datasets at stackoverflow.com in the year of 2018 and 2022.
 
 ## Installation
 
@@ -13,10 +13,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This is a project for myself to practice what I learn from data science course in Udacity.
 
-For this project, I am interested in using Stack Overflow data in the year 2017, 2020, and 2022 to better understand:
+For this project, I am interested in using Stack Overflow data in the year 2018 and 2022 to better understand:
 1. What's the trend in areas of high-income people in these years?
-2. What trends in remote work preferences and practices can be identified in these years?
-3. What trends exist between salary levels, job roles, and job satisfaction?
+2. What's the difference of trend in remote work preferences and practices can be identified after Covid 19?
+3. What trend exist between salary levels, job roles, and job satisfaction?
 
 ## File Descriptions
 
